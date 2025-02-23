@@ -21,7 +21,6 @@ Here’s a preview of the website:
 ## 🛠️ Technologies Used
 - **HTML5** for structure.
 - **CSS3** for styling and responsiveness.
-- **JavaScript** for interactivity.
 
 ---
 
